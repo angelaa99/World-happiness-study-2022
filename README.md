@@ -5,5 +5,5 @@ In this project, I am looking into 2022 [World Happiness Report](https://worldha
 
 **The Dataset:** [World Happiness Report up to 2022](https://www.kaggle.com/datasets/mathurinache/world-happiness-report)
 
-**Tableau:** [World Happiness Study 2022](https://public.tableau.com/app/profile/gaik.sim.loh/viz/WorldHappinessStudy2022/Dashboard1)
+**Data Visualization:** [World Happiness Study 2022](https://public.tableau.com/app/profile/gaik.sim.loh/viz/WorldHappinessStudy2022/Dashboard1)
 
